@@ -2,7 +2,7 @@
 Dedicated Server Setup for Planetary Annihilation
 
 I wanted to use docker, as all the images were depreciated by now. However there are challenges to making this 100% automated and available on the hub.
-Namely, steamcmd will not work anonymously. You must login and persist that login.
+Namely, steamcmd will not work anonymously. You must login and persist that login. And i made some modifications to an existing docker container to allow more flexibility in the startup parameters of the server.
 
 # What is Planetary Annihilation?
 Planetary Annihilation Titans is a standalone expansion of the original Planetary Annihilation, a real-time strategy game. It was released on August 18, 2015, and adds 21 new units to the game, including five Titan-class units. It also adds multi-level terrain, a bounty mode, and an improved tutorial1. The game allows players to command armies with numbers in the thousands across multiple planets on land, sea, air, and even in orbit. It also features epic multiplayer, where up to ten friends can play in massive free-for-all and team-based matches.
