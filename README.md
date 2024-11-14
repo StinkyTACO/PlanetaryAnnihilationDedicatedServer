@@ -59,5 +59,6 @@ Note you will want to make sure you set appropriate permissions for the folder. 
 
 This repository is based on [https://github.com/CM2Walki/CS2/](https://github.com/CM2Walki/CS2/) .<br/>
 This repository is inspired by [https://github.com/XanderXAJ/docker-planetary-annihilation-server/ ](https://github.com/XanderXAJ/docker-planetary-annihilation-server)
+This container is based on [https://github.com/obiwantoby/PlanetaryAnnihilationDedicated](https://github.com/obiwantoby/PlanetaryAnnihilationDedicated)
 
 **The container will automatically update the game on startup, so if there is a game update just restart the container.**
