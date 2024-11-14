@@ -9,7 +9,7 @@ Planetary Annihilation Titans is a standalone expansion of the original Planetar
 
 This Docker image contains the dedicated server of the game.
 
->  [PA Titans][Title](https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/)
+>  [PA Titans](https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/)
 
 # How to use this image
 ## Hosting a simple game server
