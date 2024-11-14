@@ -24,9 +24,9 @@ As of now, you can't download the PA Titans dedicated server using `+login anony
 ```console
 $ docker volume create steamcmd_login_volume # Location of login session
 ```
-Note if you use docker-compose - like I do, it affixes a prefix onto the volume name, so the above will be docker_steamcmd_login_volume.
+Note if you use docker-compose - like I do, you need to mount the volume as an external volume.
 
-That is please create it with that in mind so it may be reused and defined in your compose file later. See the repo for an example compose file.
+See the repo for an example compose file.
 
 ```console
 $ docker volume create docker_steamcmd_login_volume # Location of login session
